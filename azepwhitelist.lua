@@ -1,5 +1,18 @@
 print("hello besties")
-
-
-
-script.Parent:Destroy()
+print("hello besties")
+print("hello besties")
+print("hello besties")
+print("hello besties")
+print("hello besties")
+print("hello besties")
+print("hello besties")
+print("hello besties")
+print("hello besties")
+print("hello besties")
+print("hello besties")
+print("hello besties")
+print("hello besties")
+print("hello besties")
+print("hello besties")
+print("hello besties")
+print("hello besties")
