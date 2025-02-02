@@ -7,7 +7,9 @@
   "Automaticdoor": {
     "Licensing": true,
     "Version": "1",
-    "Whitelist": []
+    "Whitelist": [
+      51
+    ]
   },
   "E.L.F Self-Checkout": {
     "Licensing": true,
