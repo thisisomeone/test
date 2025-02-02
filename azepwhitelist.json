@@ -13,7 +13,8 @@
     "Licensing": true,
     "Version": "1",
     "Whitelist": [
-      2
+      2,
+      5
     ]
   },
   "Blacklist": [
