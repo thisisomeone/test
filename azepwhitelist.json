@@ -2,9 +2,7 @@
   "Doors": {
     "Licensing": true,
     "Version": "1.2",
-    "Whitelist": [
-      3653
-    ]
+    "Whitelist": []
   },
   "Blacklist": [
     716369883,
