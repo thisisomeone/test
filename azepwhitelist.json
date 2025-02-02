@@ -4,18 +4,18 @@
     "Version": "1.2",
     "Whitelist": []
   },
-  
   "Automaticdoor": {
     "Licensing": true,
     "Version": "1",
     "Whitelist": []
   },
-    "E.L.F Self-Checkout": {
+  "E.L.F Self-Checkout": {
     "Licensing": true,
     "Version": "1",
-    "Whitelist": []
+    "Whitelist": [
+      2
+    ]
   },
-  
   "Blacklist": [
     716369883
   ]
