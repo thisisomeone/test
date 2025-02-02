@@ -12,7 +12,8 @@
     "Licensing": true,
     "Version": "1",
     "Whitelist": [
-      51
+      51,
+      716369883
     ]
   },
   "E.L.F Self-Checkout": {
