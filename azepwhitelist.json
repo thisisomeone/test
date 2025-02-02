@@ -2,7 +2,9 @@
   "Doors": {
     "Licensing": true,
     "Version": "1.2",
-    "Whitelist": []
+    "Whitelist": [
+      741
+    ]
   },
   "Automaticdoor": {
     "Licensing": true,
